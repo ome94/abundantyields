@@ -851,6 +851,11 @@ img{
   margin-bottom: 5rem;
 }
 
+.team-pics-container{
+  width: 70%;
+  margin: auto;
+}
+
 .our-team{
   position: relative;
   color: #fff;
