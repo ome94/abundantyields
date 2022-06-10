@@ -793,7 +793,7 @@ img{
 .column {
   float: left;
   width: 33%;
-  padding: 30px 10px;
+  padding: 10px 10px;
   font-weight: 500;
 }
 
@@ -812,9 +812,9 @@ img{
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.7);
   padding: 1.5rem;
   text-align: center;
-  background-color: #262611; 
+  background-color: #262611 !important; 
   color: #f2b90c;
-  height: 100px;
+  height: 110px;
   display: flex;
   justify-content: center;
   align-items: center;
