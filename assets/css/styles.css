@@ -91,7 +91,7 @@ button{
   outline: none;
 }
 
-h1,h2,h3{
+h1,h2,h3,h4{
   color: var(--title-color);
   font-weight: var(--font-semi-bold);
   font-family: 'Playfair Display', serif;
@@ -938,9 +938,11 @@ img{
   margin: 1.5rem auto;
   box-shadow: 0 0 25px rgba(0, 0, 0, 0.15);
 }
-.title {
-  font-size: 1.5rem;
+.testimonials .title {
+  font-size: 1.2rem;
+  font-weight: 500;
 }
+
 
 .description {
   font-size: 0.95rem;
