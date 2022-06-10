@@ -671,7 +671,6 @@ img{
 .slides-6 .slider-control-btn:nth-of-type(1) .circle,
 .slides-2 .slide:nth-of-type(1),
 .slides-3 .slide:nth-of-type(1),
-.slides-4 .slide:nth-of-type(1),
 .slides-5 .slide:nth-of-type(1),
 .slides-6 .slide:nth-of-type(1) {
   -webkit-animation-delay: -2s;
@@ -1250,7 +1249,7 @@ margin-bottom: 15px;
 	margin-bottom: 10px;
 }
 .footer-col ul li a,
-.footer-col ul li{
+.footer-col ul li, .contact-info-text a{
 	font-size: 16px;
 	color: #ffffff;
 	text-decoration: none;
@@ -1259,7 +1258,7 @@ margin-bottom: 15px;
 	display: block;
 	transition: all 0.3s ease;
 }
-.footer-col ul li a:hover{
+.footer-col ul li a:hover, .contact-info-text a:hover{
 	color: #ffffff;
 	padding-left: 8px;
 }
