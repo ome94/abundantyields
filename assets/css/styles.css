@@ -158,19 +158,9 @@ img{
   color: var(--title-color);
 }
 
-.nav__logo{
-  text-transform: uppercase;
-  font-weight: 700;
-  letter-spacing: -1px;
-  display: inline-flex;
-  align-items: center;
-  column-gap: .5rem;
-  transition: .3s;
-}
 
-.nav__logo-icon{
-  font-size: 1.15rem;
-  color: var(--first-color);
+.nav__logo{
+margin-left: 0.5rem; 
 }
 
 .nav__logo:hover{
@@ -851,7 +841,7 @@ img{
   margin-bottom: 5rem;
 }
 
-.team-pics-container{
+.small-container{
   width: 70%;
   margin: auto;
 }
@@ -1174,6 +1164,10 @@ img{
   margin-bottom: 5rem;
 }
 
+.contact-info-text hr {
+  border-top: 1px solid #f2b90c;
+}
+
 .contact-info {
   display: inline-block;
   width: 100%;
@@ -1204,7 +1198,7 @@ margin-bottom: 15px;
 }
 .contact-info-text span {
   color:  #bbbbbb;
-  font-size: var(--normal-font-size);
+  font-size: 15px;
   display: inline-block;
   width: 100%;
   margin-bottom: 1rem;
@@ -1220,6 +1214,7 @@ margin-bottom: 15px;
 .footer ul{
 	list-style: none;
 }
+
 .footer{
 	background-color: #262611;
     padding: 70px 0;
@@ -1251,7 +1246,7 @@ margin-bottom: 15px;
 }
 .footer-col ul li a,
 .footer-col ul li{
-	font-size: 16px;
+	font-size: 15px;
 	color: #ffffff;
 	text-decoration: none;
 	font-weight: 300;
@@ -1267,7 +1262,7 @@ margin-bottom: 15px;
 	display: inline-block;
 	height: 40px;
 	width: 40px;
-	background-color: rgba(38,38,17,0.2);
+	background-color: #000;
 	margin:0 10px 10px 0;
 	text-align: center;
 	line-height: 40px;
