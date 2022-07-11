@@ -245,7 +245,7 @@ margin-left: 0.5rem;
 .hero-section {
   padding: 10rem 0 12rem;
   text-align: center;
-  background: #fff url("/assets/images/bg.jpg") no-repeat center;
+  background: #fff url("./assets/images/bg.jpg") no-repeat center;
   margin-bottom: 5rem;
 }
 
