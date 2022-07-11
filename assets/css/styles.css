@@ -245,7 +245,7 @@ margin-left: 0.5rem;
 .hero-section {
   padding: 10rem 0 12rem;
   text-align: center;
-  background: #fff url("./assets/images/bg.jpg") no-repeat center;
+  background: #fff url("../assets/images/bg.jpg") no-repeat center;
   margin-bottom: 5rem;
 }
 
@@ -322,7 +322,7 @@ margin-left: 0.5rem;
 /* ------- what-we-do section -------- */
 
 .about-section{
-  background: url("/assets/images/bud.jpg") no-repeat left;
+  background: url("../assets/images/bud.jpg") no-repeat left;
   background-size: 55%;
   background-color: #fdfdfd;
   overflow: hidden;
@@ -362,7 +362,7 @@ margin-left: 0.5rem;
 }
 
 .products-container {
-  background: #075913 url("/assets/images/products-bg.jpg") no-repeat center;
+  background: #075913 url("../assets/images/products-bg.jpg") no-repeat center;
   padding: 1rem;
   margin-bottom: 8rem;
   font-family: 'Playfair Display', serif;
