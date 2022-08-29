@@ -1355,7 +1355,7 @@ margin-bottom: 15px;
 
 .team-details p {
   color: #fff;
-  font-size: 10px;
+  font-size: .625rem;
 }
 
 .team-img:hover .team-details {
